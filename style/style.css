@@ -1,0 +1,72 @@
+body {margin: 0; background-color: #888888;
+}
+.toolbar{
+
+
+   
+   width : 100% ;
+   background-color:white;
+   margin: 0px;
+   padding: 0px ;
+   border: 0px;
+   height: 80px;
+   box-shadow:1px 4px 5px #626262;
+}
+
+.icon {
+   float: left;
+  width: 16.6%;
+  text-align: center;
+  padding-top: 16px;
+  padding-bottom: 20px;
+ margin : 0%;
+  transition: all 0.3s ease;
+  /*color: #2c2c2c;*/
+  font-size: 40px;
+  background-color: rgb(3, 202, 202);
+  color: white ;
+  
+  
+
+}
+.icon:active {
+   background-color:greenyellow ;
+}
+.icon:hover { 
+   background-color: gray ;
+
+}
+
+ 
+#bg{
+   display: block;
+   
+   background-color:white;
+   margin: 60px ;
+   margin-left: 22%;
+   width: 50%;
+   
+   padding: 30px ;
+
+
+   
+}
+.bold{
+   font-weight: bold ;
+
+}
+.italic{
+   font-style: italic;
+}
+.underline{
+   text-decoration: underline ;
+}
+.action{
+  background-color: chartreuse;
+
+}
+
+.dropdown {
+   position : relative;
+
+}   
